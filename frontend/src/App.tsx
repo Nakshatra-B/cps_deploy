@@ -113,6 +113,8 @@ const AppContent = () => {
               />
               EduAssess
             </h1>
+            <p style={{ fontStyle: 'italic', fontWeight: 'normal', color: 'var(--primary-color)' }}>The self assessment tool for Machine Learning</p>
+
           </div>
         </header>
 
